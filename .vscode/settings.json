@@ -6,5 +6,6 @@
             "savePath": "/css",
             "savePathReplacementPairs": null
         }
-    ]
+    ],
+    "svg.preview.background": "transparent"
 }
