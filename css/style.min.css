@@ -260,7 +260,7 @@ img {
   width: 44px;
   height: 44px;
   border: none;
-  background: yellow;
+  background: none;
   flex-shrink: 0;
   position: relative;
 }
@@ -370,6 +370,8 @@ body.is-open .l-header__nav {
     flex-grow: 1;
     justify-content: end;
     height: 100%;
+    visibility: visible;
+    opacity: 1;
   }
   .l-header__navClose {
     display: none;
